@@ -1,1 +1,1 @@
-# Simple-Fingerprint_Recognition-System-ELEC3130-Project
+# Simple Fingerprint Recognition System (ELEC3130 Course Project)
